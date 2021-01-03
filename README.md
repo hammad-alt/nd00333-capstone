@@ -68,3 +68,6 @@ In order to query and consume the endpoint we have to make a request with a JSON
 Runnung status of the model on Azure Application Insights.
 ![alt text](https://github.com/hammad-alt/nd00333-capstone/blob/master/Images/App-insights.JPG)
 
+> Link to screen cast
+https://youtu.be/NeyK1PRhtV0
+
